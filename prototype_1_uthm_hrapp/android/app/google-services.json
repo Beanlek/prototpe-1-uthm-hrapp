@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380460841158",
+    "project_id": "prototype-1-uthm-hrapp",
+    "storage_bucket": "prototype-1-uthm-hrapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380460841158:android:4d9c68c9795408d4a0ffc7",
+        "android_client_info": {
+          "package_name": "com.example.prototype_1_uthm_hrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380460841158-7revhpj43t0dpj31e1id9nhej7inboou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXfTP7aBD1dy_wlXurmfPt_2jbbXoiKxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380460841158-7revhpj43t0dpj31e1id9nhej7inboou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
